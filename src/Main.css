@@ -1,0 +1,13 @@
+main {
+  background-color: rgb(157, 211, 211);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 200px);
+}
+
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
